@@ -1,0 +1,16 @@
+C:\Users\a848734\Source\repos\Testings\CalculatorTest\bin\Debug\net5.0\CalculatorTest.exe
+C:\Users\a848734\Source\repos\Testings\CalculatorTest\bin\Debug\net5.0\CalculatorTest.deps.json
+C:\Users\a848734\Source\repos\Testings\CalculatorTest\bin\Debug\net5.0\CalculatorTest.runtimeconfig.json
+C:\Users\a848734\Source\repos\Testings\CalculatorTest\bin\Debug\net5.0\CalculatorTest.runtimeconfig.dev.json
+C:\Users\a848734\Source\repos\Testings\CalculatorTest\bin\Debug\net5.0\CalculatorTest.dll
+C:\Users\a848734\Source\repos\Testings\CalculatorTest\bin\Debug\net5.0\ref\CalculatorTest.dll
+C:\Users\a848734\Source\repos\Testings\CalculatorTest\bin\Debug\net5.0\CalculatorTest.pdb
+C:\Users\a848734\Source\repos\Testings\CalculatorTest\obj\Debug\net5.0\CalculatorTest.csproj.AssemblyReference.cache
+C:\Users\a848734\Source\repos\Testings\CalculatorTest\obj\Debug\net5.0\CalculatorTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a848734\Source\repos\Testings\CalculatorTest\obj\Debug\net5.0\CalculatorTest.AssemblyInfoInputs.cache
+C:\Users\a848734\Source\repos\Testings\CalculatorTest\obj\Debug\net5.0\CalculatorTest.AssemblyInfo.cs
+C:\Users\a848734\Source\repos\Testings\CalculatorTest\obj\Debug\net5.0\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\a848734\Source\repos\Testings\CalculatorTest\obj\Debug\net5.0\CalculatorTest.dll
+C:\Users\a848734\Source\repos\Testings\CalculatorTest\obj\Debug\net5.0\ref\CalculatorTest.dll
+C:\Users\a848734\Source\repos\Testings\CalculatorTest\obj\Debug\net5.0\CalculatorTest.pdb
+C:\Users\a848734\Source\repos\Testings\CalculatorTest\obj\Debug\net5.0\CalculatorTest.genruntimeconfig.cache
